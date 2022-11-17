@@ -5,12 +5,12 @@
 > 3. Muhammad Riza Nugroho (2010131210005)
 
 **1. Client Server pada Linux Virtual Box dengan Windows**
-+ Langkah pertama buka Linuxnya di VirtualBox kemudian masuk ke super user dengan command “su” dan masukkan password Linuxnya. Jika authentication failure silahkan menggunakan command “sudo -i” dan masukkan password Linuxnya.
++ Langkah pertama buka Linux di VirtualBox anda,kemudian masuk ke terminal lalu masukan super user dengan command “su” dan masukkan password Linux anda. Jika authentication failure silahkan menggunakan command “sudo -i” dan masukkan password Linuxnya.
 ![Image](tugas1no1_1.png)
-+ Setelah berhasil masuk ke super user buka wired settings dengan mengklik yang dilingkaran merah.
++ Setelah berhasil masuk ke super user buka wired settings dengan mengklik yang dilingkaran merah seperti gambar di bawah ini.
 ![Image](tugas1no1_2.png)
 ![Image](tugas1no1_3.png)
-+ Karena kita akan menyetting secara manual jadi pilih yang manual. Untuk addresses sebagai percobaan sesuaikan saja dengan gambar atau bisa juga ip jaringannya diganti susuai keinginan. Perlu di perhatikan untuk ip jaringan address dan gatewaysebaiknya disamakan saja, pada gambar saya membuatnya 10 kemudian apply.
++ Karena kita akan menyetting secara manual jadi pilih yang manual. Untuk ip address sebagai percobaan sesuaikan saja dengan gambar atau bisa juga ip jaringannya diganti susuai keinginan anda. Perlu di perhatikan untuk ip jaringan address dan gateway sebaiknya disamakan saja, pada gambar ini membuatnya 10 kemudian apply.
 ![Image](tugas1no1_4.png)
 + Untuk melihat ip addressnya jalankan command “ip a”, maka ip address yang sudah kita buat tadi akan tampil. 
 ![Image](tugas1no1_5.png)
